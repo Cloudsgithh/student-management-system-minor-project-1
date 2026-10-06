@@ -1,0 +1,1 @@
+# student-management-system-minor-project-1
